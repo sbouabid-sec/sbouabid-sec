@@ -3,7 +3,6 @@ Junior Penetration Tester specializing in Web/API security and Active Directory 
 
 - 🔭 I'm currently working on **enterprise Active Directory attack chains and exploit development, while completing the CRTP certification**
 - 👯 I'm looking to collaborate on **open-source security research and responsible disclosure projects**
-- ⚡ Fun fact: **I found CVE-2026-5038 in multer — a package with 500M+ downloads**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbouabid/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=github&logoColor=white)](https://sbouabid-sec.github.io) [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00.svg?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2737090) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soulaimane.bouabid.sec@gmail.com)
